@@ -34,6 +34,6 @@ Como ja apresentado em documento, vimos anteriormente que as partes **Aluno** e 
 
 # Link do Prototipo #
 
-*(link do figma com opção apenas de VIEW)*
+![Clique aqui para baixar (requer a aplicação FIGMA para visualizar)]Prototipo-Interface-UniversidadeG5-(andamento).fig
 
 
