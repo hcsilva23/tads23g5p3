@@ -18,7 +18,7 @@ Aluno e Professor possuem as mesmas informações de cadastro de uma pessoa fís
 
 ## Diagrama do caso acima ##
 
-![Diagrama de casos de uso do sistema](/image/diagram.PNG)
+![Diagrama de casos de uso do sistema](/image/diagramn.PNG)
 
 # HomePage
 
