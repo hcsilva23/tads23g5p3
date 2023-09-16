@@ -18,11 +18,11 @@ Aluno e Professor possuem as mesmas informações de cadastro de uma pessoa fís
 
 ## Diagrama do caso acima ##
 
-(inserir imagem do digrama de casos de uso)
+![Diagrama de casos de uso do sistema](/image/diagram.png)
 
 # HomePage
 
-(insira tela da home aqui)
+![Pagina Principal](/image/hp.png)
 
 ## Acesso ##
 
@@ -31,5 +31,9 @@ A metade superior da pagina, alem de botões de acesso rapido, é a de acesso, o
 ## Cadastro ##
 
 Como ja apresentado em documento, vimos anteriormente que as partes **Aluno** e **Professor** são basicamente **Pessoas Físicas**, e **Professor** *(quando possui CNPJ como microeempreendedor autonomo)* e **Fornecedor** são **Pessoas Juridicas**, a HOMEPAGE possuirá 3 botões de cadastro, para Aluno, Professor e Fornecedor.
+
+# Link do Prototipo #
+
+*(link do figma com opção apenas de VIEW)*
 
 
