@@ -22,7 +22,7 @@ Aluno e Professor possuem as mesmas informações de cadastro de uma pessoa fís
 
 # HomePage
 
-Vimos anteriormente que as partes **Aluno** e **Professor** são basicamente **Pessoas Físicas**, e **Professor** *(quando possui CNPJ como microeempreendedor autonômo)* e **Fornecedor** são **Pessoas Jurídicas**, logo, o acesso ao sistema se dá pelas 3 entidades mencionadas acima atravéz da página institucional da Universidade.
+Vimos anteriormente que as partes **Aluno** e **Professor** são basicamente **Pessoas Físicas**, e **Professor** *(quando possui CNPJ como microeempreendedor autonômo)* e **Fornecedor** são **Pessoas Jurídicas**, logo, o acesso ao sistema se dá pelas 3 entidades mencionadas acima através da página institucional da Universidade.
 
 ![Página Principal](/image/hp.JPG)
 
