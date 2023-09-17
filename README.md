@@ -36,7 +36,6 @@ A pagina de cadastro é acionada atravez do Link **Clique Aqui** após o Aluno, 
 
 ## Acesso ##
 
-
 Após o usuario clicar em sua função correspondente (Aluno, Professor ou Fornecedor), a parte de login do sistema é acionada, direcionando aos correspondentes:
 
 ![Paginas de Login](/image/logins.PNG)
