@@ -14,7 +14,7 @@ Como exigido, o projeto é dividido em 5 partes:
 
 ## Observação sobre as partes acima! ##
 
-Aluno e Professor possuem as mesmas informações de cadastro de uma pessoa física, enquanto Professor (quando não trabalha com CTPS assinada, mas sim usando seu cadastro de MEI) e fornecedor possuem as mesmas informações de cadastro de uma pessoa juridica. Então temos uma relação de heranças onde Aluno e Professor herdam de Pessoa Fisica, enquanto Professor e Fornecedor herdam de Pessoa Juridica. O que diferenciará o Professor seria o ID que ele fornecer, ja que a mascara de um CPF é diferente de um CNPJ no cadastro.
+Aluno e Professor possuem as mesmas informações de cadastro de uma pessoa física, enquanto Professor (quando não trabalha com CTPS assinada, mas sim usando seu cadastro de MEI) e Fornecedor possuem as mesmas informações de cadastro de uma pessoa juridica. Então temos uma relação de heranças onde Aluno e Professor herdam de Pessoa Fisica, enquanto Professor e Fornecedor herdam de Pessoa Juridica. O que diferenciará o Professor seria o ID que ele fornecer, ja que a mascara de um CPF é diferente de um CNPJ no cadastro.
 
 ## Diagrama do caso acima ##
 
@@ -22,7 +22,7 @@ Aluno e Professor possuem as mesmas informações de cadastro de uma pessoa fís
 
 # HomePage
 
-Vimos anteriormente que as partes **Aluno** e **Professor** são basicamente **Pessoas Físicas**, e **Professor** *(quando possui CNPJ como microeempreendedor autonomo)* e **Fornecedor** são **Pessoas Juridicas**, logo, o acesso ao sistema se dá pelas 3 entidades mencionadas acima atravéz da pagina institucional da Universidade.
+Vimos anteriormente que as partes **Aluno** e **Professor** são basicamente **Pessoas Físicas**, e **Professor** *(quando possui CNPJ como microeempreendedor autonômo)* e **Fornecedor** são **Pessoas Juridicas**, logo, o acesso ao sistema se dá pelas 3 entidades mencionadas acima atravéz da pagina institucional da Universidade.
 
 ![Pagina Principal](/image/hp.JPG)
 
