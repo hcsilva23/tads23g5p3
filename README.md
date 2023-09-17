@@ -18,7 +18,7 @@ Aluno e Professor possuem as mesmas informações de cadastro de uma pessoa fís
 
 ## Diagrama do caso acima ##
 
-![Diagrama de casos de uso do sistema](/image/diagramn.JPG)
+![Diagrama de casos de uso do sistema](/image/diagramn.png)
 
 # HomePage
 
@@ -28,11 +28,19 @@ Vimos anteriormente que as partes **Aluno** e **Professor** são basicamente **P
 
 ## Cadastro ##
 
-A pagina de cadastro é acionada atravez do Link **Clique Aqui** após o Aluno, Professor ou Fornecedor clicar em seus respectivos links.
+A pagina de cadastro é acionada após o Aluno, Professor ou Fornecedor clicar em seus respectivos links.
 
 ![Passo Cadastro 1](/image/passocadastro1.JPG)
 
+E em seguida atravez do Link **Clique Aqui**
+
 ![Passo Cadastro 2](/image/passocadastro2.JPG)
+
+Assim, abrirá a pagina de cadastro de seu respectivo tipo de acesso, dos tress possuiveis: 
+
+![Passo Cadastro 3](/image/cadastros.JPG)
+
+
 
 ## Acesso ##
 
