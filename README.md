@@ -14,7 +14,7 @@ Como exigido, o projeto é dividido em 5 partes:
 
 ## Observação sobre as partes acima! ##
 
-Aluno e Professor possuem as mesmas informações de cadastro de uma pessoa física, enquanto Professor (quando não trabalha com CTPS assinada, mas sim usando seu cadastro de MEI) e Fornecedor possuem as mesmas informações de cadastro de uma pessoa juridica. Então, temos uma relação de heranças onde Aluno e Professor herdam de Pessoa Fisica, enquanto Professor e Fornecedor herdam de Pessoa Juridica. O que diferenciará o Professor será o ID que ele irá fornecer, já que a máscara de um CPF é diferente de um CNPJ no cadastro. 
+Aluno e Professor possuem as mesmas informações de cadastro de uma pessoa física, enquanto Professor (quando não trabalha com CTPS assinada, mas sim usando seu cadastro de MEI) e Fornecedor possuem as mesmas informações de cadastro de uma pessoa jurídica. Então, temos uma relação de heranças onde Aluno e Professor herdam de Pessoa Física, enquanto Professor e Fornecedor herdam de Pessoa Jurídica. O que diferenciará o Professor será o ID que ele irá fornecer, já que a máscara de um CPF é diferente de um CNPJ no cadastro. 
 
 ## Diagrama do caso acima ##
 
@@ -22,7 +22,7 @@ Aluno e Professor possuem as mesmas informações de cadastro de uma pessoa fís
 
 # HomePage
 
-Vimos anteriormente que as partes **Aluno** e **Professor** são basicamente **Pessoas Físicas**, e **Professor** *(quando possui CNPJ como microeempreendedor autonômo)* e **Fornecedor** são **Pessoas Juridicas**, logo, o acesso ao sistema se dá pelas 3 entidades mencionadas acima atravéz da página institucional da Universidade.
+Vimos anteriormente que as partes **Aluno** e **Professor** são basicamente **Pessoas Físicas**, e **Professor** *(quando possui CNPJ como microeempreendedor autonômo)* e **Fornecedor** são **Pessoas Jurídicas**, logo, o acesso ao sistema se dá pelas 3 entidades mencionadas acima atravéz da página institucional da Universidade.
 
 ![Página Principal](/image/hp.JPG)
 
@@ -32,7 +32,7 @@ A página de cadastro é acionada após o Aluno, Professor ou Fornecedor clicar 
 
 ![Passo Cadastro 1](/image/passocadastro1.JPG)
 
-E em seguida atravez do Link **Clique Aqui**
+E em seguida através do Link **Clique Aqui**
 
 ![Passo Cadastro 2](/image/passocadastro2.JPG)
 
@@ -48,7 +48,7 @@ Após o usuário clicar em sua função correspondente (Aluno, Professor ou Forn
 
 ![Paginas de Login](/image/logins.JPG)
 
-Quando o login é feito com sucesso, suas respectivas paginas de acesso serão exibidas com suas devidas funções/métodos:
+Quando o login é feito com sucesso, suas respectivas páginas de acesso serão exibidas com suas devidas funções/métodos:
 
 ![Paginas de Login](/image/acessos.JPG)
 
