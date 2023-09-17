@@ -58,7 +58,7 @@ Quando o login é feito com sucesso, suas respectivas paginas de acesso são exi
 
 Para melhor abstração e visualização da prototipagem, o Prototipo foi desenvolvido no FIGMA:
 
-[Clique aqui para baixar (requer a aplicação FIGMA para visualizar)](/Prototipo-Interface-UniversidadeG5 (Final).fig)
+[Clique aqui para baixar (requer a aplicação FIGMA para visualizar)](/Prototipo-Interface-UniversidadeG5-Final.fig)
 
 ou [Clique aqui para acessar (requer cadastro no FIGMA)](https://www.figma.com/file/wjKrUEIHarYcgZsKqYYhxr/Prototipo-Interface-UniversidadeG5-(Final)?type=design&t=tSkDF0w4P34Bslvc-6)
 
