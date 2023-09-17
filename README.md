@@ -30,8 +30,11 @@ Vimos anteriormente que as partes **Aluno** e **Professor** são basicamente **P
 
 A pagina de cadastro é acionada atravez do Link **Clique Aqui** após o Aluno, Professor ou Fornecedor clicar em seus respectivos links.
 
-## Acesso ##
+![Passo Cadastro 1](/image/passocadastro1.PNG)
 
+![Passo Cadastro 2](/image/passocadastro2.PNG)
+
+## Acesso ##
 
 
 Após o usuario clicar em sua função correspondente (Aluno, Professor ou Fornecedor), a parte de login do sistema é acionada, direcionando aos correspondentes:
@@ -45,6 +48,8 @@ Quando o login é feito com sucesso, suas respectivas paginas de acesso são exi
 
 
 # Link do Prototipo #
+
+Para melhor abstração e visualização da prototipagem, o Prototipo foi desenvolvido no FIGMA:
 
 [Clique aqui para baixar (requer a aplicação FIGMA para visualizar)](/G5-FINAL.fig)
 
