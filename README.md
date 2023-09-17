@@ -18,31 +18,31 @@ Aluno e Professor possuem as mesmas informações de cadastro de uma pessoa fís
 
 ## Diagrama do caso acima ##
 
-![Diagrama de casos de uso do sistema](/image/diagramn.PNG)
+![Diagrama de casos de uso do sistema](/image/diagramn.JPG)
 
 # HomePage
 
 Vimos anteriormente que as partes **Aluno** e **Professor** são basicamente **Pessoas Físicas**, e **Professor** *(quando possui CNPJ como microeempreendedor autonomo)* e **Fornecedor** são **Pessoas Juridicas**, logo, o acesso ao sistema se dá pelas 3 entidades mencionadas acima atravéz da pagina institucional da Universidade.
 
-![Pagina Principal](/image/hp.PNG)
+![Pagina Principal](/image/hp.JPG)
 
 ## Cadastro ##
 
 A pagina de cadastro é acionada atravez do Link **Clique Aqui** após o Aluno, Professor ou Fornecedor clicar em seus respectivos links.
 
-![Passo Cadastro 1](/image/passocadastro1.PNG)
+![Passo Cadastro 1](/image/passocadastro1.JPG)
 
-![Passo Cadastro 2](/image/passocadastro2.PNG)
+![Passo Cadastro 2](/image/passocadastro2.JPG)
 
 ## Acesso ##
 
 Após o usuario clicar em sua função correspondente (Aluno, Professor ou Fornecedor), a parte de login do sistema é acionada, direcionando aos correspondentes:
 
-![Paginas de Login](/image/logins.PNG)
+![Paginas de Login](/image/logins.JPG)
 
 Quando o login é feito com sucesso, suas respectivas paginas de acesso são exibidas com suas devidas funções/metodos:
 
-![Paginas de Login](/image/acessos.PNG)
+![Paginas de Login](/image/acessos.JPG)
 
 
 
