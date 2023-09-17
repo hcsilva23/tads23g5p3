@@ -36,7 +36,7 @@ E em seguida atravez do Link **Clique Aqui**
 
 ![Passo Cadastro 2](/image/passocadastro2.JPG)
 
-Assim, abrirá a pagina de cadastro de seu respectivo tipo de acesso, dos tress possuiveis: 
+Assim, abrirá a pagina de cadastro de seu respectivo tipo de acesso, dos três possíveis: 
 
 ![Passo Cadastro 3](/image/cadastros.JPG)
 
