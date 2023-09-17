@@ -48,7 +48,7 @@ Após o usuario clicar em sua função correspondente (Aluno, Professor ou Forne
 
 ![Paginas de Login](/image/logins.JPG)
 
-Quando o login é feito com sucesso, suas respectivas paginas de acesso são exibidas com suas devidas funções/metodos:
+Quando o login é feito com sucesso, suas respectivas paginas de acesso serão exibidas com suas devidas funções/metodos:
 
 ![Paginas de Login](/image/acessos.JPG)
 
@@ -56,7 +56,7 @@ Quando o login é feito com sucesso, suas respectivas paginas de acesso são exi
 
 # Link do Prototipo #
 
-Para melhor abstração e visualização da prototipagem, o Prototipo foi desenvolvido no FIGMA:
+Para melhor abstração e visualização dos Prototipos que foram desenvolvidos no FIGMA:
 
 [Clique aqui para baixar (requer a aplicação FIGMA para visualizar)](/Prototipo-Interface-UniversidadeG5-Final.fig)
 
