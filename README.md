@@ -22,15 +22,27 @@ Aluno e Professor possuem as mesmas informações de cadastro de uma pessoa fís
 
 # HomePage
 
+Vimos anteriormente que as partes **Aluno** e **Professor** são basicamente **Pessoas Físicas**, e **Professor** *(quando possui CNPJ como microeempreendedor autonomo)* e **Fornecedor** são **Pessoas Juridicas**, logo, o acesso ao sistema se dá pelas 3 entidades mencionadas acima atravéz da pagina institucional da Universidade.
+
 ![Pagina Principal](/image/hp.PNG)
-
-## Acesso ##
-
-A metade superior da pagina, alem de botões de acesso rapido, é a de acesso, onde o sistema exigirá como login o CPF ou CNPJ de quem deseja acessar (que seriam os IDs das identidades), e que dependendo de qual entidade ela é, será direcionada para seu respectivo acesso.
 
 ## Cadastro ##
 
-Como ja apresentado em documento, vimos anteriormente que as partes **Aluno** e **Professor** são basicamente **Pessoas Físicas**, e **Professor** *(quando possui CNPJ como microeempreendedor autonomo)* e **Fornecedor** são **Pessoas Juridicas**, a HOMEPAGE possuirá 3 botões de cadastro, para Aluno, Professor e Fornecedor.
+A pagina de cadastro é acionada atravez do Link **Clique Aqui** após o Aluno, Professor ou Fornecedor clicar em seus respectivos links.
+
+## Acesso ##
+
+
+
+Após o usuario clicar em sua função correspondente (Aluno, Professor ou Fornecedor), a parte de login do sistema é acionada, direcionando aos correspondentes:
+
+![Paginas de Login](/image/logins.PNG)
+
+Quando o login é feito com sucesso, suas respectivas paginas de acesso são exibidas com suas devidas funções/metodos:
+
+![Paginas de Login](/image/acessos.PNG)
+
+
 
 # Link do Prototipo #
 
