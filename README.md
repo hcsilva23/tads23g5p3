@@ -62,7 +62,7 @@ Para melhor abstração e visualização da prototipagem, o Prototipo foi desenv
 
 ou [Clique aqui para acessar (requer cadastro no FIGMA)](https://www.figma.com/file/wjKrUEIHarYcgZsKqYYhxr/Prototipo-Interface-UniversidadeG5-(Final)?type=design&t=tSkDF0w4P34Bslvc-6)
 
-## Integrants do Projeto ##
+## Integrantes do Projeto ##
 
 * Antenor Pereira dos Santos
 * Henrique Carvalho Silva
