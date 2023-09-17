@@ -60,6 +60,6 @@ Para melhor abstração e visualização da prototipagem, o Prototipo foi desenv
 
 [Clique aqui para baixar (requer a aplicação FIGMA para visualizar)](/G5-FINAL.fig)
 
-ou Acesse: https://www.figma.com/file/qBTfEs7hFv9sPQZndlC3Er/Prototipo-Interface-UniversidadeG5?type=design&t=tSkDF0w4P34Bslvc-6
+ou [Clique aqui para acessar (requer cadastro no FIGMA)](https://www.figma.com/file/qBTfEs7hFv9sPQZndlC3Er/Prototipo-Interface-UniversidadeG5?type=design&t=tSkDF0w4P34Bslvc-6
 
 
