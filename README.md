@@ -1,5 +1,5 @@
 # Sistema WEB de Cadastro da Universidade G5
-Andamento Projeto Integrador III do Grupo 5 de TADS - Senac 2023
+Projeto Integrador III do Grupo 5 de TADS - Senac 2023
 
 # Início
 Esse projeto tem como objetivo prototipar como seria um sistema simples com interface atrativa para cadastrar e fornecer acesso as entidades da universidade.
