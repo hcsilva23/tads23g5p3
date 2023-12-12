@@ -60,7 +60,7 @@ Para melhor abstração e visualização dos Protótipos que foram desenvolvidos
 
 [Clique aqui para baixar (requer a aplicação FIGMA para visualizar)](/Prototipo-Interface-UniversidadeG5-Final.fig)
 
-ou [Clique aqui para acessar (requer cadastro no FIGMA)](https://www.figma.com/file/wjKrUEIHarYcgZsKqYYhxr/Prototipo-Interface-UniversidadeG5-(Final)?type=design&t=tSkDF0w4P34Bslvc-6)
+ou [Clique aqui para acessar (requer cadastro no FIGMA)][https://www.figma.com/file/9Rn806NRZLZTDf87o9kUzZ/Interface-UniversidadeG5?type=design&node-id=0%3A1&mode=design&t=Ljxg2lZuBqHbioCz-1]
 
 ## Integrantes do Projeto ##
 
